@@ -1,5 +1,12 @@
 # Coventry University Course Scraper
 
+**Author:** Shubham Singh Mewada.  
+**Email:** shubhamsinghmewada3@gmail.com. 
+**Submission:** Senbonzakura Consultancy Private Limited – Intern Assignment.  
+**Date:** April 2026  
+
+---
+
 Scrapes structured data for **5 courses** directly from the official Coventry University website:  
 🔗 https://www.coventry.ac.uk/
 
